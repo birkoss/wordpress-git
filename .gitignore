@@ -1,0 +1,35 @@
+# Exclude these files from the git repo
+wp-content/backup/*
+wp-content/backup-db/*
+wp-content/backups/*
+wp-content/cache/*
+wp-content/upgrade/*
+wp-content/uploads/*
+wp-content/mu-plugins/
+wp-content/plugins/hello.php
+wp-content/advanced-cache.php
+wp-content/wp-cache-config.php
+sitemap.*
+license.txt
+readme.html
+wp-config.php
+.htaccess
+
+# Hidden system files
+*.DS_Store
+*[Tt]humbs.db
+*.Trashes
+*._*
+*.swp
+*.swo
+*.log
+*.svn
+*.bak
+*.sql
+
+# Big files
+*.zip
+*.tar.gz
+*.mp4
+*.mp3
+*.exe
