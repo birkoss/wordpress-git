@@ -1,6 +1,6 @@
 # Redirect all your uploads folder
 
-Add this in your local wp-content/uploads/.htaccess to redirect all non-existing content to your DOMAIN.COM url.
+Add this in your local **wp-content/uploads/.htaccess** to redirect all non-existing content to your *DOMAIN.COM* url.
 
 ```
 <IfModule mod_rewrite.c>
